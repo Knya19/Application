@@ -1,4 +1,4 @@
-package it.mirea.karapetyan;
+package it.mirea.knyazeva;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
